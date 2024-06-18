@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  font-family: "Poppins" !important;
+  padding: 0;
+
+}
+
+.border-custom {
+  border-radius: 100% 0% 100% 0% / 0% 84% 16% 100%;
+}
+
+.svgCircle {
+  position: absolute;
+  width: 130% !important;
+  height: 140% !important;
+  top: -20%;
+  left: -15%;
+}
+
+.custom-shape-divider-bottom-1718517382 {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1718517382 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 69px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1718517382 .shape-fill {
+  fill: #9C9FA4;
+}
+
+
+.wave1{
+  position: relative;
+  top: 7px;
+}
+
+
+
